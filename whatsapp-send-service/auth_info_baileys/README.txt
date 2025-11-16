@@ -1,0 +1,1 @@
+This folder will be populated by Baileys with session credentials. It is gitignored by default.
