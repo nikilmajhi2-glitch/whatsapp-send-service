@@ -1,3 +1,8 @@
+# Dependencies
+node_modules/
+
+# Authentication data
+auth_info_baileys/
 
 # Environment variables
 .env
